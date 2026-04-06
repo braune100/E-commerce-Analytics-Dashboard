@@ -9,6 +9,9 @@ This project is an interactive dashboard built using SQL, Python, Pandas, and St
 - Top customers by revenue
 - Country-level sales analysis
 - Interactive filters (date and country)
+- 
+## App Link
+- https://sql-ecommerce-project1.streamlit.app/
 
 ## Tech Stack
 - SQL (SQLite)
